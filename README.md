@@ -10,6 +10,7 @@ cd api-rest-py
 Crie e ative um ambiente virtual (opcional, mas recomendado):
 
 python -m venv venv
+
 source venv/bin/activate
 
 Instale as dependências:
