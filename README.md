@@ -1,5 +1,5 @@
-# Nome do Projeto
-Breve descrição do projeto.
+# API Rest Python
+API Rest feita com Pyhton e Flask para manipular dados de jogadores.
 
 ## Instalação
 Clone o repositório: git clone https://github.com/seu-usuario/seu-projeto.git
