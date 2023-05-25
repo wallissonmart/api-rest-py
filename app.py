@@ -42,7 +42,7 @@ def add_player():
 
 @server.put('/jogadores/<int:id>')
 @spec.validate(body=Request(Jogador), resp=(Response(HTTP_200=Jogador)))
-def update_player(id):
+def update_player(id: int):
     """Edita um jogador"""
     for player in players:
         if player.id == id:
