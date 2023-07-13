@@ -22,6 +22,7 @@ player1 = Jogador(id=1, nome='Neymar', time='PSG')
 player2 = Jogador(id=2, nome='William', time='Fulham')
 player3 = Jogador(id=3, nome='Lucas', time='Tottenham')
 player4 = Jogador(id=4, nome='Richarlison', time='Tottenham')
+player5 = Jogador(id=4, nome='Gabriel Jesus', time='Arsenal')
 
 players = [player1, player2, player3, player4]
 
